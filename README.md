@@ -4,7 +4,7 @@ Notepad++ jQuery syntax highlight
 `Settings` > `Style Configurator` > `Language: > Javascript`  
 - `TYPE WORD` > `User-defined keywords` paste:
 ```
-document JSON location navigator screen window 
+console document JSON location navigator screen window 
 this XMLHttpRequest
 ```
 - `WINDOW INSTRUCTION` > `User-defined keywords` paste:
