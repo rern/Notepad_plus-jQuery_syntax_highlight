@@ -1,3 +1,4 @@
+console
 document
 JSON
 location
