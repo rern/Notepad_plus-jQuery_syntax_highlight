@@ -1,0 +1,8 @@
+document
+JSON
+location
+navigator
+screen
+window
+this
+XMLHttpRequest
